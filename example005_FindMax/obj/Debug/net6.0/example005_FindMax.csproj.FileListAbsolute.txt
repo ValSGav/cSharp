@@ -1,0 +1,15 @@
+C:\Education\C_Sharp\Lesson1\example005_FindMax\bin\Debug\net6.0\example005_FindMax.exe
+C:\Education\C_Sharp\Lesson1\example005_FindMax\bin\Debug\net6.0\example005_FindMax.deps.json
+C:\Education\C_Sharp\Lesson1\example005_FindMax\bin\Debug\net6.0\example005_FindMax.runtimeconfig.json
+C:\Education\C_Sharp\Lesson1\example005_FindMax\bin\Debug\net6.0\example005_FindMax.dll
+C:\Education\C_Sharp\Lesson1\example005_FindMax\bin\Debug\net6.0\example005_FindMax.pdb
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.csproj.AssemblyReference.cache
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.AssemblyInfoInputs.cache
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.AssemblyInfo.cs
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.csproj.CoreCompileInputs.cache
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.dll
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\refint\example005_FindMax.dll
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.pdb
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\example005_FindMax.genruntimeconfig.cache
+C:\Education\C_Sharp\Lesson1\example005_FindMax\obj\Debug\net6.0\ref\example005_FindMax.dll
