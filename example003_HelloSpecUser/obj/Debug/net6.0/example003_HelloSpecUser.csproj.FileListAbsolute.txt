@@ -1,0 +1,15 @@
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.csproj.AssemblyReference.cache
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.AssemblyInfoInputs.cache
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.AssemblyInfo.cs
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.csproj.CoreCompileInputs.cache
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\bin\Debug\net6.0\example003_HelloSpecUser.exe
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\bin\Debug\net6.0\example003_HelloSpecUser.deps.json
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\bin\Debug\net6.0\example003_HelloSpecUser.runtimeconfig.json
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\bin\Debug\net6.0\example003_HelloSpecUser.dll
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\bin\Debug\net6.0\example003_HelloSpecUser.pdb
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.dll
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\refint\example003_HelloSpecUser.dll
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.pdb
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\example003_HelloSpecUser.genruntimeconfig.cache
+C:\Education\C_Sharp\Lesson1\example003_HelloSpecUser\obj\Debug\net6.0\ref\example003_HelloSpecUser.dll
